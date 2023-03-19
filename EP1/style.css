@@ -1,0 +1,41 @@
+html{
+    font-size: 21px;
+    font-family: 'Arvo', serif;
+    background-color: rgb(175, 222, 224);
+}
+h1{
+    text-align: center;
+}
+header{
+    align-items: left;
+    font-size: 14px;
+    background-color: rgb(142, 194, 196);
+}
+
+.frango{
+    width:100px;
+    height: 100px;
+        float: left;
+        border: transparent thin solid;
+        padding: 5px;
+        margin: 0px 10px 10px 0;
+}
+
+p{
+    text-align: center;
+}
+
+.boi{
+    text-align: center;
+}
+
+img{
+    text-align: center;
+    height: 200;
+    width: 200;
+}
+
+footer{
+    font-size: 14px;
+    background-color: rgb(142, 194, 196);
+}
